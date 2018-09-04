@@ -32,30 +32,28 @@ https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BestTimetoBuyandSe
 + 122
 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BestTimetoBuyandSellStockII122.java
 
-+ [https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BinarySearchTreeIterator173.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BinarySearchTreeIterator173.java)
++ [173 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BinarySearchTreeIterator173.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BinarySearchTreeIterator173.java)
 
-+ [https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BinaryTreeLevelOrderTraversal_102.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BinaryTreeLevelOrderTraversal_102.java)
++ [102 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BinaryTreeLevelOrderTraversal_102.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BinaryTreeLevelOrderTraversal_102.java)
 
-+ [https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BoundaryofBinaryTree_545.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BoundaryofBinaryTree_545.java)
-
-+ [https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BoundaryofBinaryTree_545.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BoundaryofBinaryTree_545.java)
++ [545 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BoundaryofBinaryTree_545.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BoundaryofBinaryTree_545.java)
 
 
-+ [https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BulbSwitcher_319.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BulbSwitcher_319.java)
++ [319 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BulbSwitcher_319.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BulbSwitcher_319.java)
 
-+ [https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CircularArrayLoop_457.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CircularArrayLoop_457.java)
-
-
-+ [https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ClimbingStairs_70.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ClimbingStairs_70.java)
-
-+ [https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CoinChange322.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CoinChange322.java)
-
-+ [https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CombinationSum39.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CombinationSum39.java)
-
-+ [https://github.com/VickyFengYu/leetcode/blob/master/algorithm/Combinations77.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/Combinations77.java)
++ [457 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CircularArrayLoop_457.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CircularArrayLoop_457.java)
 
 
-+ [https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ConstructBinaryTreefromPreorderandInorderTraversal105.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ConstructBinaryTreefromPreorderandInorderTraversal105.java)
++ [70 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ClimbingStairs_70.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ClimbingStairs_70.java)
+
++ [322 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CoinChange322.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CoinChange322.java)
+
++ [39 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CombinationSum39.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/CombinationSum39.java)
+
++ [77 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/Combinations77.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/Combinations77.java)
+
+
++ [105 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ConstructBinaryTreefromPreorderandInorderTraversal105.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ConstructBinaryTreefromPreorderandInorderTraversal105.java)
 
 
 + [11 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ContainerWithMostWater_11.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ContainerWithMostWater_11.java)
@@ -93,6 +91,42 @@ https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BestTimetoBuyandSe
 + [150 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/EvaluateReversePolishNotation_150.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/EvaluateReversePolishNotation_150.java)
 
 + [171 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ExcelSheetColumnNumber_171.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ExcelSheetColumnNumber_171.java)
+
++ [168 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ExcelSheetColumnTitle_168.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ExcelSheetColumnTitle_168.java)
+
++ [172 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FactorialTrailingZeroes_172.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FactorialTrailingZeroes_172.java)
+
++ [438 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindAllAnagramsinaString_438.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindAllAnagramsinaString_438.java)
+
++ [442 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindAllDuplicatesinanArray442.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindAllDuplicatesinanArray442.java)
+
++ [448 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindAllNumbersDisappearedinanArray448.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindAllNumbersDisappearedinanArray448.java)
+
++ [760 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindAnagramMappings760.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindAnagramMappings760.java)
+
++ [153 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindMinimuminRotatedSortedArray153.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindMinimuminRotatedSortedArray153.java)
+
++ [162 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindPeakElement_162.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindPeakElement_162.java)
+
++ [389 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindtheDifference_389.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindtheDifference_389.java)
+
++ [287 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindtheDuplicateNumber287.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FindtheDuplicateNumber287.java)
+
++ [387 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/First_Unique_Characterina_String_387.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/First_Unique_Characterina_String_387.java)
+
++ [412 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FizzBuzz_412.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FizzBuzz_412.java)
+
++ [341 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FlattenNestedListIterator_341.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FlattenNestedListIterator_341.java)
+
++ [18 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FourSum_18.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/FourSum_18.java)
+
++ [289 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GameofLife_289.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GameofLife_289.java)
+
++ [134 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GasStation134.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GasStation134.java)
+
++ [22 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GenerateParentheses_22.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GenerateParentheses_22.java)
+
++ [89 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GrayCode89.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GrayCode89.java)
 
 + []()
 
