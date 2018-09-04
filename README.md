@@ -194,7 +194,30 @@ https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BestTimetoBuyandSe
 
 + [300 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestIncreasingSubsequence300.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestIncreasingSubsequence300.java)
 
++ [5 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestPalindromicSubstring_5.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestPalindromicSubstring_5.java)
+
++ [3 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestSubstringWithoutRepeatingCharacters_3.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestSubstringWithoutRepeatingCharacters_3.java)
+
++ [395 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestSubstringwithAtLeastKRepeatingCharacters395.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestSubstringwithAtLeastKRepeatingCharacters395.java)
+
++ [235 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LowestCommonAncestorofaBinarySearchTree_235.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LowestCommonAncestorofaBinarySearchTree_235.java)
+
++ [236 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LowestCommonAncestorofaBinaryTree_236.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LowestCommonAncestorofaBinaryTree_236.java)
+
++ [169 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MajorityElement_169.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MajorityElement_169.java)
+
++ [229 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MajorityElement_II_229.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MajorityElement_II_229.java)
+
++ [695 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MaxAreaofIsland_695.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MaxAreaofIsland_695.java)
+
++ [807 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MaxIncreasetoKeepCitySkyline807.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MaxIncreasetoKeepCitySkyline807.java)
+
++ [654 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MaximumBinaryTree654.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MaximumBinaryTree654.java)
+
++ [104 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MaximumDepthofBinaryTree_104.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/MaximumDepthofBinaryTree_104.java)
+
 + []()
+
 
 
 ## Sql
