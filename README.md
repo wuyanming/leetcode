@@ -128,6 +128,42 @@ https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BestTimetoBuyandSe
 
 + [89 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GrayCode89.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GrayCode89.java)
 
++ [49 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GroupAnagrams_49.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GroupAnagrams_49.java)
+
++ [374 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GuessNumberHigherorLower_374.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/GuessNumberHigherorLower_374.java)
+
++ [461 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/HammingDistance_461.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/HammingDistance_461.java)
+
++ [202 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/HappyNumber_202.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/HappyNumber_202.java)
+
++ [198 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/HouseRobber_198.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/HouseRobber_198.java)
+
++ [232 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ImplementQueueusingStacks_232.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ImplementQueueusingStacks_232.java)
+
++ [28 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ImplementstrStr_28.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/ImplementstrStr_28.java)
+
++ [380 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/InsertDeleteGetRandomO1_380.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/InsertDeleteGetRandomO1_380.java)
+
++ [147 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/InsertionSortList_147.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/InsertionSortList_147.java)
+
++ [343 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IntegerBreak343.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IntegerBreak343.java)
+
++ [12 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IntegertoRoman_12.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IntegertoRoman_12.java)
+
++ [349 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IntersectionofTwoArrays349.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IntersectionofTwoArrays349.java)
+
++ [350 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IntersectionofTwoArrays_II_350.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IntersectionofTwoArrays_II_350.java)
+
++ [160 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IntersectionofTwoLinkedLists_160.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IntersectionofTwoLinkedLists_160.java)
+
++ [226 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/InvertBinaryTree_226.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/InvertBinaryTree_226.java)
+
++ [463 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IslandPerimeter463.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IslandPerimeter463.java)
+
++ [205 ](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/IsomorphicStrings_205.java)
+
++ [771 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/JewelsandStones_771.java]()
+
 + []()
 
 
