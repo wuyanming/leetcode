@@ -1,0 +1,24 @@
+-- 182. Duplicate Emails
+
+
+-- Approach I: Using GROUP BY and a temporary table [Accepted]
+
+select Email from
+(
+  select Email, count(Email) as num
+  from Person
+  group by Email
+) as statistic
+where num > 1
+;
+
+
+
+-- Approach II: Using GROUP BY and HAVING condition [Accepted]
+
+-- A more common used way to add a condition to a GROUP BY is to use the HAVING clause, which is much simpler and more efficient.
+
+select Email
+from Person
+group by Email
+having count(Email) > 1;

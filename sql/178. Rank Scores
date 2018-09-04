@@ -1,0 +1,11 @@
+
+-- 178. Rank Scores
+
+/* Same as the previous one, but faster because I have a subquery that "uniquifies" the scores first. 
+Not entirely sure why it's faster, I'm guessing MySQL makes tmp a temporary table and uses it for every outer Score. */
+
+SELECT
+  Score,
+  (SELECT count(*) FROM (SELECT distinct Score s FROM Scores) tmp WHERE s >= Score) Rank
+FROM Scores
+ORDER BY Score desc

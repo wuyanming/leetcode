@@ -1,0 +1,24 @@
+-- 181. Employees Earning More Than Their Managers
+
+-- Approach I: Using WHERE clause [Accepted]
+
+SELECT
+    a.Name AS 'Employee'
+FROM
+    Employee AS a,
+    Employee AS b
+WHERE
+    a.ManagerId = b.Id
+        AND a.Salary > b.Salary;
+
+
+
+		
+-- Approach I: Using JOIN clause [Accepted]
+-- Actually, JOIN is a more common and efficient way to link tables together, and we can use ON to specify some conditions.
+
+SELECT
+     a.NAME AS Employee
+FROM Employee AS a JOIN Employee AS b
+     ON a.ManagerId = b.Id
+     AND a.Salary > b.Salary;

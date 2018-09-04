@@ -1,0 +1,17 @@
+/*175. Combine Two Tables*/
+
+select FirstName, LastName, City, State
+from Person left join Address
+on Person.PersonId = Address.PersonId;
+
+
+
+SELECT Person.FirstName, Person.LastName, Address.City, Address.State FROM Person NATURAL LEFT JOIN Address;
+
+
+
+/* The NATURAL LEFT JOIN is the same as a regular LEFT JOIN.
+
+The NATURAL LEFT JOIN automatically uses all the matching columns as part of the join.
+
+The NATURAL LEFT JOIN is syntactically equivalent to a LEFT JOIN with a USING clause that names all the identical columns of the two tables. */

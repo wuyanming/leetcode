@@ -1,0 +1,55 @@
+-- 176. Second Highest Salary
+
+
+-- Approach: Using sub-query and LIMIT clause [Accepted]
+
+SELECT
+    (SELECT DISTINCT
+            Salary
+        FROM
+            Employee
+        ORDER BY Salary DESC
+        LIMIT 1 OFFSET 1) AS SecondHighestSalary
+;
+
+
+
+-- Approach: Using IFNULL and LIMIT clause [Accepted]
+
+SELECT
+    IFNULL(
+      (SELECT DISTINCT Salary
+       FROM Employee
+       ORDER BY Salary DESC
+        LIMIT 1 OFFSET 1),
+    NULL) AS SecondHighestSalary
+
+
+	
+/* IFNULL(expression, alt_value)
+The IFNULL() function returns the alt_value, if the expression is a NULL
+The IFNULL() function returns the expression, if the expression is NOT NULL */
+	
+
+/* mysql> SELECT * FROM table LIMIT 5,10;  // 检索记录行 6-15
+
+//为了检索从某一个偏移量到记录集的结束所有的记录行，可以指定第二个参数为 -1： 
+mysql> SELECT * FROM table LIMIT 95,-1; // 检索记录行 96-last.
+
+//如果只给定一个参数，它表示返回最大的记录行数目： 
+mysql> SELECT * FROM table LIMIT 5;     //检索前 5 个记录行
+
+//换句话说，LIMIT n 等价于 LIMIT 0,n。
+
+
+
+语句1：select * from student limit 9,4
+语句2：slect * from student limit 4 offset 9
+// 语句1和2均返回表student的第10、11、12、13行  
+//语句2中的4表示返回4行，9表示从表的第十行开始
+例2，通过limit和offset 或只通过limit可以实现分页功能。
+假设 numberperpage 表示每页要显示的条数，pagenumber表示页码，那么 返回第pagenumber页，每页条数为numberperpage的sql语句：
+
+代码示例:
+语句3：select * from studnet limit (pagenumber-1)*numberperpage,numberperpage
+语句4：select * from student limit numberperpage offset (pagenumber-1)*numberperpage */
