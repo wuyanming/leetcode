@@ -164,6 +164,36 @@ https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BestTimetoBuyandSe
 
 + [771 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/JewelsandStones_771.java]()
 
++ [657 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/JudgeRouteCircle_657.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/JudgeRouteCircle_657.java)
+
++ [55 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/JumpGame_55.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/JumpGame_55.java)
+
++ [500 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/KeyboardRow_500.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/KeyboardRow_500.java)
+
++ [215 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/KthLargestElementinanArray_215.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/KthLargestElementinanArray_215.java)
+
++ [230 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/KthSmallestElementinaBST230.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/KthSmallestElementinaBST230.java)
+
++ [460 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LFU_Cache_460.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LFU_Cache_460.java)
+
++ [146 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LRUCache_146_2.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LRUCache_146_2.java)
+
++ [179 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LargestNumber_179.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LargestNumber_179.java)
+
++ [479 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LargestPalindromeProduct_479.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LargestPalindromeProduct_479.java)
+
++ [17 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LetterCombinationsofaPhoneNumber_17.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LetterCombinationsofaPhoneNumber_17.java)
+
++ [386 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LexicographicalNumbers_386.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LexicographicalNumbers_386.java)
+
++ [141 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LinkedListCycle_141.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LinkedListCycle_141.java)
+
++ [388 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestAbsoluteFilePath_388.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestAbsoluteFilePath_388.java)
+
++ [14 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestCommonPrefix_14.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestCommonPrefix_14.java)
+
++ [300 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestIncreasingSubsequence300.java](https://github.com/VickyFengYu/leetcode/blob/master/algorithm/LongestIncreasingSubsequence300.java)
+
 + []()
 
 
