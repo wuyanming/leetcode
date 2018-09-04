@@ -1,6 +1,6 @@
-# Leetcode
+# Leetcode  &#8194;&#8194;  ![enter image description here](https://png.icons8.com/dusk/2x/mailbox-closed-flag-up.png)
 
-## Algorithm
+## ![enter image description here](https://png.icons8.com/color/2x/3d-recycle-center.png)     Algorithm
 
 + 67   <https://github.com/VickyFengYu/leetcode/blob/master/algorithm/AddBinary67.java>
 
@@ -220,8 +220,9 @@ https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BestTimetoBuyandSe
 
 
 
+----------
 
-## Sql
+##  ![enter image description here](https://png.icons8.com/color/2x/3d-recycle-center.png)      Sql
 
 + [175 https://github.com/VickyFengYu/leetcode/blob/master/sql/175.%20Combine%20Two%20Tables](https://github.com/VickyFengYu/leetcode/blob/master/sql/175.%20Combine%20Two%20Tables)
 
@@ -299,5 +300,6 @@ https://github.com/VickyFengYu/leetcode/blob/master/algorithm/BestTimetoBuyandSe
 
 + []()
 
+----------
 
 
