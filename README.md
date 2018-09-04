@@ -2,14 +2,11 @@
 
 ## Algorithm
 
-+ 67   
-<https://github.com/VickyFengYu/leetcode/blob/master/algorithm/AddBinary67.java>
++ 67   <https://github.com/VickyFengYu/leetcode/blob/master/algorithm/AddBinary67.java>
 
-+ 258  
-<https://github.com/VickyFengYu/leetcode/blob/master/algorithm/AddDigits_258.java>
++ 258  <https://github.com/VickyFengYu/leetcode/blob/master/algorithm/AddDigits_258.java>
 
-+ 2
-https://github.com/VickyFengYu/leetcode/blob/master/algorithm/AddTwoNumbers_2.java
++ 2    https://github.com/VickyFengYu/leetcode/blob/master/algorithm/AddTwoNumbers_2.java
 
 + 445
 https://github.com/VickyFengYu/leetcode/blob/master/algorithm/AddTwoNumbers_II_445.java
